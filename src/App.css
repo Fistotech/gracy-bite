@@ -1,0 +1,241 @@
+
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 12vh;
+  width: 100%;
+  margin-left: 0px;
+  margin-top: 0px;
+  border-radius: 0px;
+  background: white;
+  
+  
+}
+
+.logo {
+  height: 20px;
+  width: 10px;
+  margin-left: 122px;
+  margin-top: 12px;
+  border-radius: 0px;
+}
+
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 50%;
+}
+
+ .nav-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 60%;
+  height: 96px;
+  /* width: 1440px; */
+  margin-left: 0px;
+  margin-top: 50px;
+  border-radius: 0px;
+  list-style: none;
+ 
+}
+
+.nav-links li a {
+ font-size: 16px;
+ text-decoration: none;
+ 
+}
+
+.section {
+  width: 100%;
+  height: 100vh;
+  background: white;
+  margin: 0px;
+}
+
+.ellipse {
+  height: 50px;
+  width: 50px;
+  margin-left: 500px;
+  margin-top: 0px;
+  border-radius: 0px;
+
+}
+
+.section-container {
+  width: 100%;
+  height: 60vh;
+  text-align: left;
+  font-size: 18px;
+  margin-left: 0px;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.section-container h1 {
+  margin-top: 30px;
+  text-align: center;
+}
+
+ .section-container p {
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 28px;
+   margin-left: 20px;
+   margin-top: 50px;
+
+} 
+
+.btn {
+  width: 80%;
+  height: 6vh;
+  background: blue;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;  
+  margin-top: 50px;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+
+.center-image {
+  width: 30%;
+  height: 50%;
+  margin-right: 250px;
+}
+
+.section-text {
+  width: 40%;
+  height: 50%;
+  margin-left: 0px;
+}
+
+.article {
+  width: 100%;
+  height: 0vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-top: 350px;
+  
+}
+
+.up {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.middle {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 50PX;
+
+}
+
+.firstname {
+  margin-left: 80px;
+  font-size: 16px;
+ 
+}
+
+.lastname {
+  margin-left: 80px;
+  font-size: 16px;
+  margin-top: 50px;
+}
+
+.email {
+  margin-left: 80px;
+  font-size: 16px;
+  margin-top: 60px;
+}
+
+.pass1 {
+  margin-left: 80px;
+  font-size: 16px;
+
+}
+
+.pass2 {
+  margin-left: 80px;
+  font-size: 16px;
+}
+
+.signup-section {
+    width: 100%;
+    height: 100vh;
+    background: white;
+    margin-top: 0px;
+  }
+
+  .signup-section-container {
+    width: 100%;
+    height: 100vh;
+    text-align: left;
+    font-size: 18px;
+    margin-left: 0px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+
+  .section-text h1 {
+    text-align: center;
+  }
+
+  .main {
+    width: 100%;
+    height: 100vh;
+    background: #61dafb;
+    display: flex;
+    flex-direction: row;
+  }
+
+  Link {
+    text-decoration: none;
+  }
+
+  .food-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 50px;
+  }
+
+  .food-container {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+  }
+
+  .shelf {
+    width: 70%;
+    height: 100vh;
+    background: red;
+    justify-content: center;
+    margin-left: 240px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .shelf-content {
+    
+  }
+
+  /* .text {
+
+  } */
+
+
+  
